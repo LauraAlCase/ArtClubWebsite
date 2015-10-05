@@ -1,0 +1,77 @@
+
+.fonts
+{
+	font-family:Georgia;
+}
+#Title
+{
+	background:#D6FFD6;
+	border: 5px solid #47008F;
+	padding:10px;
+text-align:center;	
+font-family:Papyrus;
+font-size:large;
+}
+#Community_Service h2
+{
+	font-family:Papyrus;
+}
+#Community_Service
+{
+	float:right;
+	background: #248F8F;
+	color:#CCFFFF;
+	border: 3px solid #B8DBFF;
+	padding:10px;
+	height:250px;
+	margin:10px;
+}
+#scream_pic
+{
+	float:right;
+	border:2px solid black;
+	margin:10px;
+	padding:10px;
+	background:#330066;
+}
+#About_Art_Club h2
+{
+	font-family:Papyrus;
+}
+#About_Art_Club
+{
+	color:#6B0000;
+	float:left;
+	height:250px;
+	width:500px;
+	background:#FFCCFF;
+	border: 5px solid #FF9999;
+	padding:10px;
+	margin:10px;
+}
+#The_Gallery h2{
+	font-family: Papyrus;
+}
+#The_Gallery
+{
+	clear:all;
+	width:1100px;
+	height:90px;
+	float:left;
+	background:#9999FF;
+	color:#FFFFFF;
+	border:2px solid #330066;
+	text-align:center;
+	padding:10px;
+	margin:50px;
+}
+#Pic1
+{
+	float:left;
+	margin:20px;
+}
+#Pic2
+{
+	float:left;
+	margin:20px;
+}
